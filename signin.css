@@ -1,0 +1,126 @@
+.signin-container {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.signin-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.signin-form {
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+.form-input {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.btn-submit {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.btn-submit:hover {
+    background-color: #45a049;
+}
+
+.social-signin {
+    margin-top: 20px;
+}
+
+.social-signin p {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.social-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.btn-social {
+    padding: 10px;
+    margin: 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.social-logo {
+    width: 20px;
+    height: 20px;
+}
+
+.btn-social.google {
+    background-color: #db4437;
+    color: white;
+    flex: 1;
+}
+
+.btn-social.google:hover {
+    background-color: #c1351d;
+}
+
+.btn-social.facebook {
+    background-color: #3b5998;
+    color: white;
+    flex: 1;
+}
+
+.btn-social.facebook:hover {
+    background-color: #365492;
+}
+
+.btn-social.twitter {
+    background-color: #1da1f2;
+    color: white;
+    flex: 1;
+}
+
+.btn-social.twitter:hover {
+    background-color: #1a91da;
+}
+
+.signup-link {
+    margin-top: 20px;
+}
+
+.btn-signup {
+    width: 100%;
+    padding: 10px;
+    background-color: #00aced;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.btn-signup:hover {
+    background-color: #0084b4;
+}
